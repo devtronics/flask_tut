@@ -63,3 +63,4 @@ def after_login(resp):
 def before_request():
     g.user = current_user
 
+
